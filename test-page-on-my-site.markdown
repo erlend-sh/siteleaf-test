@@ -8,4 +8,4 @@ A brand new page I just created.
 
 ![Screen Shot 2016-05-31 at 18.07.27.png](/uploads/Screen%20Shot%202016-05-31%20at%2018.07.27.png)
 
-Now with pictures.
+Now with my pictures.
